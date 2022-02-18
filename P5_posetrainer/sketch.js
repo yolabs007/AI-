@@ -29,7 +29,7 @@ function setup() {
   imageMode(CENTER);
   puspha = createImg("tedha.jpeg")
   
-  puspha.position(width,height/2-60)
+  puspha.position(width,height/2)
   puspha.size(width,height)
  
   frameRate(16)
