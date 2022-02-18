@@ -150,7 +150,7 @@ function draw() {
 
 
 function divCreation(){
-  howto = createDiv("AI Trainer - Lift either left or right shoulder, till you won't achieve a perfect pose.\n Place your laptop armlength away");
+  howto = createDiv("AI Trainer - Lift either left or right shoulder, till you won't achieve a perfect pose.\n Place your laptop armlength away to start training");
 howto.style('font-size', '24px');
   howto.style("color","white")
 howto.position(10, 0.8*windowHeight);
